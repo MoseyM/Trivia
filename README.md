@@ -7,4 +7,4 @@ This is a small React application that tests your knowledge of trivia. You are t
 
 ## _Open Data Unite_
 
-This uses [Open Trivia Database}((https://opentdb.com/) to populate the questions.
+This uses [Open Trivia Database]((https://opentdb.com/) to populate the questions.

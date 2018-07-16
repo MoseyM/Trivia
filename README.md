@@ -1,6 +1,6 @@
 # Trivia Game
 
-[__Play Here__](https://moseym.github.io/trivia)
+[__Play Here__](https://moseym.github.io/Trivia)
 
 This is a small React application that tests your knowledge of trivia. You are tested with 10 questions ranging from pop culture, entertainment and science. 
 
